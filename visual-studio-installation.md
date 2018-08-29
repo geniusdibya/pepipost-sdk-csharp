@@ -18,23 +18,31 @@ If you are using Visual Studio for development and want to integrated with Pepip
             
     OR ```git clone https://github.com/pepipost/pepipost-sdk-csharp.git```
     
- 2. For starting a new project, right click on the current solution from the *Solution Explorer* 
- 
-    Choose  *Add -> New Project*.
-    
+ 2. Open the Project *Pepipost.sln* file from the unzipped directory 
+     
     ![s1](http://app1.falconide.com/integration_imgs/csharp-vs/final-1.png)
     
     ![s2](http://app1.falconide.com/integration_imgs/csharp-vs/final-2.png)
     
     ![s3](http://app1.falconide.com/integration_imgs/csharp-vs/final-3.png)
     
-    ![s4](http://app1.falconide.com/integration_imgs/csharp-vs/final-4.png)
     
+    Install the dependencies as shown below:
+    
+    ![s4](http://app1.falconide.com/integration_imgs/csharp-vs/final-4.png)
+ 
+ 
+    For starting a new project, right click on the current solution from the *Solution Explorer* 
+ 
+    Choose  *Add -> New Project*.
+   
     ![s5](http://app1.falconide.com/integration_imgs/csharp-vs/final-5.png)
+
 
  3. Next, choose "Console Application", provide a *TestConsoleProject* as the project name and click *OK*.
 
     ![Set the new cosole project as the start up project](http://app1.falconide.com/integration_imgs/csharp-vs/final-6.png)
+
 
  4. **Set as startup project**
 
@@ -57,11 +65,11 @@ If you are using Visual Studio for development and want to integrated with Pepip
 
     ![This Opens the references for the TestConsoleProject](http://app1.falconide.com/integration_imgs/csharp-vs/final-8.png)
 
-    Next, a window will be displayed where we must set the *Checkbox* on *PepipostAPI.Standard* 
+    Next, a window will be displayed where we must set the *Checkbox* on *Pepipost* 
     
     Click *OK*. 
     
-    By doing this, we have added a reference of the *PepipostAPI.Standard* project into the new *TestConsoleProject*.
+    By doing this, we have added a reference of the *Pepipost* project into the new *TestConsoleProject*.
 
     ![Add a reference to the TestConsoleProject](http://app1.falconide.com/integration_imgs/csharp-vs/final-9.png)
  

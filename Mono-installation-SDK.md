@@ -63,10 +63,12 @@ If you are using Mono for development and want to integrated with Pepipost direc
       a. Adding reference 
 
       Select **Edit Reference**
-        
-      ![dep2](http://app1.falconide.com/integration_imgs/csharp-mono1/6.png)
+      
+      ![dep1](http://app1.falconide.com/integration_imgs/csharp-mono1/5.png)
         
       Select **Pepipost -> OK**
+      
+      ![dep2](http://app1.falconide.com/integration_imgs/csharp-mono1/6.png)
   
       b. Adding packages
        

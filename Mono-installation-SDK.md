@@ -37,14 +37,14 @@ If you are using Mono for development and want to integrated with Pepipost direc
       ![mono](http://app1.falconide.com/integration_imgs/csharp-mono1/l1.png)
       
       
-   4. Once you have opened the solution the few files will appear with respective SDK:
+   4. Once you have opened the solution, few files will appear from the code library:
    
       Add new project to the main directory as shown below
       
       ![monoaddpro](http://app1.falconide.com/integration_imgs/csharp-mono1/2.png)
       
       
-   5. Choose template for new project will be prompted
+   5. "Choose template for new project" screen will be prompted
    
       Select **App -> Console Application -> next**
       
@@ -74,7 +74,7 @@ If you are using Mono for development and want to integrated with Pepipost direc
        
        ![dep4](http://app1.falconide.com/integration_imgs/csharp-mono1/7.png)
           
-       search **NewtonSoft.json -> Add packages**
+       Search **NewtonSoft.json -> Add packages**
           
        ![dep5](http://app1.falconide.com/integration_imgs/csharp-mono/11.png)
        
@@ -114,5 +114,3 @@ If you are using Mono for development and want to integrated with Pepipost direc
        If there is some problem related with config, then you will receive error message as shown below:
       
         ![mono10](http://app1.falconide.com/integration_imgs/csharp-mono/l10.png)
-
-      

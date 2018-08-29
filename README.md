@@ -2,6 +2,7 @@
 
 [![NuGet](https://img.shields.io/nuget/v/Pepipost.svg)](https://www.nuget.org/packages/Pepipost)
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.txt)
+[![GitHub release](https://img.shields.io/github/release/pepipost/pepipost-sdk-csharp.svg)](https://github.com/pepipost/pepipost-sdk-csharp/releases/tag/v2.5.0)
 [![Twitter Follow](https://img.shields.io/twitter/follow/pepi_post.svg?style=social&label=Follow)](https://twitter.com/pepi_post)
 
 

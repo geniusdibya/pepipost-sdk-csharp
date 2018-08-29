@@ -34,7 +34,7 @@ If you are using Mono for development and want to integrated with Pepipost direc
    
       **Open** the Solution once you have selected the sln file 
    
-      ![mono](http://app1.falconide.com/integration_imgs/csharp-mono/3.png)
+      ![mono](http://app1.falconide.com/integration_imgs/csharp-mono1/l1.png)
       
       
    4. Once you have opened the solution the few files will appear with respective SDK:

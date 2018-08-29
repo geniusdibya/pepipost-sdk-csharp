@@ -4474,11 +4474,11 @@
   "project": {
     "version": "2.5.0",
     "restore": {
-      "projectUniqueName": "/home/vikram/Downloads/pepi/pepipost-csharp/Pepipost/Pepipost.csproj",
+      "projectUniqueName": "/home/vikram/testSDK/pepipost-sdk-csharp/Pepipost/Pepipost.csproj",
       "projectName": "Pepipost",
-      "projectPath": "/home/vikram/Downloads/pepi/pepipost-csharp/Pepipost/Pepipost.csproj",
+      "projectPath": "/home/vikram/testSDK/pepipost-sdk-csharp/Pepipost/Pepipost.csproj",
       "packagesPath": "/home/vikram/.nuget/packages/",
-      "outputPath": "/home/vikram/Downloads/pepi/pepipost-csharp/Pepipost/obj",
+      "outputPath": "/home/vikram/testSDK/pepipost-sdk-csharp/Pepipost/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

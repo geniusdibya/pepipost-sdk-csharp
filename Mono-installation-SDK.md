@@ -41,7 +41,7 @@ If you are using Mono for development and want to integrated with Pepipost direc
    
       Add new project to the main directory as shown below
       
-      ![monoaddpro](http://app1.falconide.com/integration_imgs/csharp-mono/4.png)
+      ![monoaddpro](http://app1.falconide.com/integration_imgs/csharp-mono1/2.png)
       
       
    5. Choose template for new project will be prompted
@@ -53,20 +53,18 @@ If you are using Mono for development and want to integrated with Pepipost direc
       
    6. Configure new project
    
-      Give a desired name to your project (testConsole recommended)
+      Give a desired name to your project (TestConsoleProject recommended)
       
-      ![makeconsole](http://app1.falconide.com/integration_imgs/csharp-mono/6.png)
+      ![makeconsole](http://app1.falconide.com/integration_imgs/csharp-mono1/4.png)
       
       
    7. Resolving dependencies
    
       a. Adding reference 
-      
-      ![dep1](http://app1.falconide.com/integration_imgs/csharp-mono/7.png)
-      
+
       Select **Edit Reference**
         
-      ![dep2](http://app1.falconide.com/integration_imgs/csharp-mono/8.png)
+      ![dep2](http://app1.falconide.com/integration_imgs/csharp-mono1/6.png)
         
       Select **Pepipost -> OK**
          
@@ -74,7 +72,7 @@ If you are using Mono for development and want to integrated with Pepipost direc
          
        b. Adding packages
        
-       ![dep4](http://app1.falconide.com/integration_imgs/csharp-mono/10.png)
+       ![dep4](http://app1.falconide.com/integration_imgs/csharp-mono1/7.png)
           
        search **NewtonSoft.json -> Add packages**
           
@@ -86,9 +84,7 @@ If you are using Mono for development and want to integrated with Pepipost direc
       Just copy and paste the [simpleUsage.md](https://github.com/hellovikram/pepipost-csharp/blob/master/simpleUsage.md) in your program.cs file present in your project.
       
       Build the project as shown below OR by just hit **F8** to build
-      
-      ![monol8](http://app1.falconide.com/integration_imgs/csharp-mono/l8.png)
-      
+     
         
    9.   Update the api_key and FromEmail parameters:
 
